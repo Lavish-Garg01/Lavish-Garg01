@@ -1,8 +1,10 @@
+<h1 align="center">Hi there, I'm Lavish 👋</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZyNmJncDNpZ3g0dXg0OHBicDJ5d3FqZGN2Z3Z2N3dpb3h3MTRmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CW2BwrK0uFcdy/giphy.gif" width="250px" alt="anime" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdxMDI2MThzNmlsdHd3aWJhdnpwNTk5dnpnZnRlNXZnaTN4bTNhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" width="250px" alt="anime" />
 </p>
 
-<h1 align="center">Hi there, I'm Lavish 👋</h1>
+
 
 <p align="center">
   <strong>Full Stack Developer | Anime Enthusiast | Code + Creativity = ❤️</strong>
