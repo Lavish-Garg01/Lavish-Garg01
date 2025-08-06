@@ -43,7 +43,7 @@
 ### 🛠️ Projects Showcase
 > *Featured repositories or pinned projects*
 
-- 🎌 [Anime Site](https://github.com/Lavish-Garg01/anime-site) – A clean and dynamic frontend anime browsing platform
+- 🎌 [Anime Site](https://github.com/Lavish-Garg01/Anime) – A clean and dynamic frontend anime browsing platform
 - ✨ [More coming soon!]
 
 ---
